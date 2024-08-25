@@ -1,0 +1,21 @@
+{
+  "name": "flower-stand",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vant/weapp": "^1.11.6",
+    "async-validator": "^4.2.5",
+    "mina-request": "^1.0.8",
+    "miniprogram-computed": "^5.0.0",
+    "miniprogram-licia": "^1.41.1",
+    "mobx-miniprogram": "^6.12.3",
+    "mobx-miniprogram-bindings": "^4.0.0"
+  }
+}
